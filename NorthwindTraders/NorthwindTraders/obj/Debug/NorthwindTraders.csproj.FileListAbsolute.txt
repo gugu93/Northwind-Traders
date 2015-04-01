@@ -1,0 +1,27 @@
+C:\Users\Adrian\Desktop\NorthwindTraders\NorthwindTraders\bin\Debug\NorthwindTraders.exe.config
+C:\Users\Adrian\Desktop\NorthwindTraders\NorthwindTraders\bin\Debug\NorthwindTraders.exe
+C:\Users\Adrian\Desktop\NorthwindTraders\NorthwindTraders\bin\Debug\NorthwindTraders.pdb
+C:\Users\Adrian\Desktop\NorthwindTraders\NorthwindTraders\obj\Debug\NorthwindTraders.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\NorthwindTraders\NorthwindTraders\obj\Debug\NorthwindTraders.Form1.resources
+C:\Users\Adrian\Desktop\NorthwindTraders\NorthwindTraders\obj\Debug\NorthwindTraders.Properties.Resources.resources
+C:\Users\Adrian\Desktop\NorthwindTraders\NorthwindTraders\obj\Debug\NorthwindTraders.csproj.GenerateResource.Cache
+C:\Users\Adrian\Desktop\NorthwindTraders\NorthwindTraders\obj\Debug\NorthwindTraders.exe
+C:\Users\Adrian\Desktop\NorthwindTraders\NorthwindTraders\obj\Debug\NorthwindTraders.pdb
+E:\Dokumenty\Informatyka\Computer Science Jagiellonian University\Data Base\NorthwindTraders\NorthwindTraders\bin\Debug\NorthwindTraders.exe.config
+E:\Dokumenty\Informatyka\Computer Science Jagiellonian University\Data Base\NorthwindTraders\NorthwindTraders\obj\Debug\NorthwindTraders.exe
+E:\Dokumenty\Informatyka\Computer Science Jagiellonian University\Data Base\NorthwindTraders\NorthwindTraders\obj\Debug\NorthwindTraders.pdb
+E:\Dokumenty\Informatyka\Computer Science Jagiellonian University\Data Base\NorthwindTraders\NorthwindTraders\bin\Debug\NorthwindTraders.exe
+E:\Dokumenty\Informatyka\Computer Science Jagiellonian University\Data Base\NorthwindTraders\NorthwindTraders\bin\Debug\NorthwindTraders.pdb
+E:\Dokumenty\Informatyka\Computer Science Jagiellonian University\Data Base\NorthwindTraders\NorthwindTraders\obj\Debug\NorthwindTraders.csprojResolveAssemblyReference.cache
+E:\Dokumenty\Informatyka\Computer Science Jagiellonian University\Data Base\NorthwindTraders\NorthwindTraders\obj\Debug\NorthwindTraders.Form1.resources
+E:\Dokumenty\Informatyka\Computer Science Jagiellonian University\Data Base\NorthwindTraders\NorthwindTraders\obj\Debug\NorthwindTraders.Properties.Resources.resources
+E:\Dokumenty\Informatyka\Computer Science Jagiellonian University\Data Base\NorthwindTraders\NorthwindTraders\obj\Debug\NorthwindTraders.csproj.GenerateResource.Cache
+D:\Dokumenty\OneDrive\Computer Science Jagiellonian University\Data Base\NorthwindTraders\NorthwindTraders\bin\Debug\NorthwindTraders.exe.config
+D:\Dokumenty\OneDrive\Computer Science Jagiellonian University\Data Base\NorthwindTraders\NorthwindTraders\obj\Debug\NorthwindTraders.exe
+D:\Dokumenty\OneDrive\Computer Science Jagiellonian University\Data Base\NorthwindTraders\NorthwindTraders\obj\Debug\NorthwindTraders.pdb
+D:\Dokumenty\OneDrive\Computer Science Jagiellonian University\Data Base\NorthwindTraders\NorthwindTraders\bin\Debug\NorthwindTraders.exe
+D:\Dokumenty\OneDrive\Computer Science Jagiellonian University\Data Base\NorthwindTraders\NorthwindTraders\bin\Debug\NorthwindTraders.pdb
+D:\Dokumenty\OneDrive\Computer Science Jagiellonian University\Data Base\NorthwindTraders\NorthwindTraders\obj\Debug\NorthwindTraders.csprojResolveAssemblyReference.cache
+D:\Dokumenty\OneDrive\Computer Science Jagiellonian University\Data Base\NorthwindTraders\NorthwindTraders\obj\Debug\NorthwindTraders.Form1.resources
+D:\Dokumenty\OneDrive\Computer Science Jagiellonian University\Data Base\NorthwindTraders\NorthwindTraders\obj\Debug\NorthwindTraders.Properties.Resources.resources
+D:\Dokumenty\OneDrive\Computer Science Jagiellonian University\Data Base\NorthwindTraders\NorthwindTraders\obj\Debug\NorthwindTraders.csproj.GenerateResource.Cache
